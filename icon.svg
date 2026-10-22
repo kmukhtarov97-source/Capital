@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Капитал">
+  <rect width="512" height="512" rx="112" fill="#22252c"/>
+  <path d="M122 344 L221 270 L287 295 L389 169" fill="none" stroke="#ff7759" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M312 169 H390 V247" fill="none" stroke="#ff7759" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="122" cy="344" r="15" fill="#fff1e9"/>
+</svg>
